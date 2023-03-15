@@ -1,0 +1,25 @@
+li{
+    display: block;
+    margin: 70px;
+  border-bottom: 2px solid transparent;
+  
+    
+}
+li :hover{
+    border-bottom: 3px solid rgb(182, 89, 89);
+    font-size: medium;
+}
+li a {
+    text-decoration: none;
+    transition: 17.s;
+}
+
+.youtube :hover{
+    border-bottom: 1px solid red;
+    
+
+}
+.las {
+    font-size: 30px;
+    
+}
